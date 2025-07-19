@@ -7,7 +7,7 @@ This is a simple web-based Currency Converter developed using **JSP**, **HTML**,
 - Enter the amount
 - Click **Convert** to get the equivalent INR value
 - Real-time exchange rate fetched using API
-- Built with JSP (no JavaScript logic used)
+- Built with JSP 
 
 ## 🛠 Tech Stack
 - **Frontend**: HTML, CSS
